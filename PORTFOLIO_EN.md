@@ -48,7 +48,7 @@ I am a freelance **Backend / Full-Stack Software Engineer** with hands-on experi
   - Implemented enhancements for existing features (including HTML parameter adjustments).
 
 ### Contract Work: Program Development / Operations Support
-- Period: 2025-03 – 2025-11
+- Period: 2025-03 – Currently
 - Key technologies: Java, JavaScript, HTML, Postman, Jira, Slack, Spring
 - Responsibilities:
   - Refactored and improved training materials for an engineering education service.
