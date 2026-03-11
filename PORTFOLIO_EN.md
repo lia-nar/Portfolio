@@ -63,6 +63,15 @@ I am a freelance **Backend / Full-Stack Software Engineer** with hands-on experi
   - Executed procedures based on runbooks and collected test evidence according to test cases.
   - Participated in regular meetings to align on tasks and progress.
 
+### Search System Infrastructure Development
+- Period: 2026-01 – Present
+- Key technologies: Java 17, Spring Boot 2.x, JUnit 5, JMeter, Postman, Linux, PostgreSQL
+- Responsibilities:
+  - Built and developed a robust search system infrastructure using Java.
+  - Implemented unit tests using JUnit to ensure code quality.
+  - Investigated and resolved system bugs efficiently.
+  - Created and executed integration test scenarios using JMeter.
+
 ## Public Output
 **[View all Qiita posts here](https://qiita.com/lia-nar)**
 
